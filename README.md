@@ -1,2 +1,2 @@
-# KorBot
-A simple interface direction of korbot robot
+# Kore Bot
+A simple interface direction of kore robot
